@@ -1,9 +1,9 @@
-package com.beebrainy.servicesex.client.services.misc.music;
+package com.beebrainy.servicesexample.client.services.misc.music;
 
 import android.content.Context;
 import android.media.MediaPlayer;
 
-import com.beebrainy.servicesex.R;
+import com.beebrainy.servicesexample.R;
 
 /**
  * Created by Prajwal Gambhir on 20-Apr-18.

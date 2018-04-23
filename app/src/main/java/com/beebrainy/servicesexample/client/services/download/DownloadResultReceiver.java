@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.client.services.download;
+package com.beebrainy.servicesexample.client.services.download;
 
 import android.os.Bundle;
 import android.os.Handler;

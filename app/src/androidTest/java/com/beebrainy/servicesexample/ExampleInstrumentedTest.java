@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex;
+package com.beebrainy.servicesexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

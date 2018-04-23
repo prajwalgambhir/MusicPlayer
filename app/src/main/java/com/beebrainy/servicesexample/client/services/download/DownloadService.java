@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.client.services.download;
+package com.beebrainy.servicesexample.client.services.download;
 
 import android.app.IntentService;
 import android.content.Intent;
@@ -9,9 +9,9 @@ import android.support.annotation.Nullable;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.beebrainy.servicesex.model.ResponseModel;
-import com.beebrainy.servicesex.rest.ApiInterface;
-import com.beebrainy.servicesex.rest.HttpClient;
+import com.beebrainy.servicesexample.model.ResponseModel;
+import com.beebrainy.servicesexample.rest.ApiInterface;
+import com.beebrainy.servicesexample.rest.HttpClient;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.rest;
+package com.beebrainy.servicesexample.rest;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

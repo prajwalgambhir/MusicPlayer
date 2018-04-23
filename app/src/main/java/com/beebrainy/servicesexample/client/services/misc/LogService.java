@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.client.services.misc;
+package com.beebrainy.servicesexample.client.services.misc;
 
 import android.app.Service;
 import android.content.Intent;

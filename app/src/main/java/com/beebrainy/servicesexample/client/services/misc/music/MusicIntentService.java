@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.client.services.misc.music;
+package com.beebrainy.servicesexample.client.services.misc.music;
 
 import android.app.IntentService;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.model;
+package com.beebrainy.servicesexample.model;
 
 import com.google.gson.annotations.SerializedName;
 

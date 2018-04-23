@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex;
+package com.beebrainy.servicesexample;
 
 import org.junit.Test;
 

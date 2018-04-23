@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.client.activities;
+package com.beebrainy.servicesexample.client.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,10 +9,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.beebrainy.servicesex.R;
-import com.beebrainy.servicesex.client.services.download.DownloadResultReceiver;
-import com.beebrainy.servicesex.client.services.download.DownloadService;
-import com.beebrainy.servicesex.client.services.misc.LogService;
+import com.beebrainy.servicesexample.R;
+import com.beebrainy.servicesexample.client.services.download.DownloadResultReceiver;
+import com.beebrainy.servicesexample.client.services.download.DownloadService;
+import com.beebrainy.servicesexample.client.services.misc.LogService;
 
 public class MainActivity extends AppCompatActivity implements DownloadResultReceiver.Receiver,
         View.OnClickListener {

@@ -1,4 +1,4 @@
-package com.beebrainy.servicesex.client.activities;
+package com.beebrainy.servicesexample.client.activities;
 
 import android.content.ComponentName;
 import android.content.Intent;
@@ -9,8 +9,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.beebrainy.servicesex.R;
-import com.beebrainy.servicesex.client.services.misc.music.MusicService;
+import com.beebrainy.servicesexample.R;
+import com.beebrainy.servicesexample.client.services.misc.music.MusicService;
 
 public class MusicActivity extends AppCompatActivity implements View.OnClickListener {
 

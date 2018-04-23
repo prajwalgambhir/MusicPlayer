@@ -1,6 +1,6 @@
-package com.beebrainy.servicesex.rest;
+package com.beebrainy.servicesexample.rest;
 
-import com.beebrainy.servicesex.model.ResponseModel;
+import com.beebrainy.servicesexample.model.ResponseModel;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
